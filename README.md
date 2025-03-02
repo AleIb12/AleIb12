@@ -1,27 +1,59 @@
 <h1 align="center">Hi 👋, I'm Ale</h1>
-<h3 align="center">I am a dedicated Java developer with a strong foundation in object-oriented programming and software development practices. Currently, I work as a Robotics extracurricular instructor at Colegio del Sagrado Corazón, where I teach and inspire students in the world of robotics and technology. While my primary focus is on Java development, I am always eager to explore new tools and frameworks to enhance my coding skills. I am committed to creating efficient, maintainable, and scalable solutions, while continuously learning and adapting to the latest trends in software development. Feel free to browse my repositories, where I share various coding projects, personal contributions, and resources related to Java development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aleib12&label=Profile%20views&color=0e75b6&style=flat" alt="aleib12" /> </p>
-
-- 🔭 I’m currently working on [projecto pokemon](projecto-pokemon.vercel.app)
-
-- 🌱 I’m currently learning **Spring and JavaFX**
-
-- 👨‍💻 All of my projects are available at [https://www.kickresume.com/cv/jose-ibarra/](https://www.kickresume.com/cv/jose-ibarra/)
-
-- 💬 Ask me about **Java, javascript and sql**
-
-- 📫 How to reach me **josealejandro.ibarrabello@gmail.com**
-
-- ⚡ Fun fact **I think im loyal**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/aleib12">
+    <img src="https://img.shields.io/github/followers/aleib12?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## Sobre mí
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleib12&show_icons=true&locale=en&layout=compact" alt="aleib12" /></p>
+Soy un desarrollador **Java** apasionado, con una sólida base en programación orientada a objetos y las mejores prácticas de desarrollo. Actualmente, trabajo como **Instructor de Robótica** en Colegio del Sagrado Corazón, donde inspiro a estudiantes a explorar el mundo de la tecnología y la robótica.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleib12&show_icons=true&locale=en" alt="aleib12" /></p>
+## Proyectos Destacados
+
+- 🔭 **[Proyecto Pokémon](https://projecto-pokemon.vercel.app)**  
+  Aplicación interactiva que demuestra mis habilidades en Java y el desarrollo de soluciones dinámicas.
+
+- 🌐 **[Mi Portafolio](https://www.kickresume.com/cv/jose-ibarra/)**  
+  Aquí comparto mis proyectos, contribuciones y recursos relacionados con el desarrollo de software.
+
+## Habilidades y Herramientas
+
+<p align="center">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <!-- Agrega más íconos según tus habilidades -->
+</p>
+
+## Contacto
+
+- 📫 **Email:** [josealejandro.ibarrabello@gmail.com](mailto:josealejandro.ibarrabello@gmail.com)
+- 💬 **Pregúntame sobre:** Java, JavaScript y SQL.
+- ⚡ **Dato Curioso:** ¡Soy una persona muy leal!
+
+## Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aleib12&show_icons=true&locale=en" alt="Ale GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleib12&layout=compact" alt="Top Langs" />
+</p>
+
