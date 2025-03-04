@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ale</h1>
+<h1 align="center">Hi 👋, I'm Ali</h1>
 
 <p align="center">
   <a href="https://github.com/aleib12">
@@ -8,7 +8,7 @@
 
 ## Sobre mí
 
-Soy un desarrollador **Java** apasionado, con una sólida base en programación orientada a objetos y las mejores prácticas de desarrollo. Actualmente, trabajo como **Instructor de Robótica** en Colegio del Sagrado Corazón, donde inspiro a estudiantes a explorar el mundo de la tecnología y la robótica.
+Soy una desarrolladora Java apasionada, con una sólida base en programación orientada a objetos y las mejores prácticas de desarrollo. Actualmente, trabajo como Instructora de Robótica en Colegio del Sagrado Corazón, donde inspiro a estudiantes a explorar el mundo de la tecnología y la robótica.
 
 ## Proyectos Destacados
 
