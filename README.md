@@ -15,7 +15,7 @@ Soy un desarrollador **Java** apasionado, con una sólida base en programación 
 - 🔭 **[Proyecto Pokémon](https://projecto-pokemon.vercel.app)**  
   Aplicación interactiva que demuestra mis habilidades en Java y el desarrollo de soluciones dinámicas.
 
-- 🌐 **[Mi Portafolio](https://www.kickresume.com/cv/jose-ibarra/)**  
+- 🌐 **[Mi Portafolio](portafolio-sable-chi.vercel.app)**  
   Aquí comparto mis proyectos, contribuciones y recursos relacionados con el desarrollo de software.
 
 ## Habilidades y Herramientas
