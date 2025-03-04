@@ -44,7 +44,7 @@ Soy un desarrollador **Java** apasionado, con una sólida base en programación 
 
 ## Contacto
 
-- 📫 **Email:** [josealejandro.ibarrabello@gmail.com](mailto:josealejandro.ibarrabello@gmail.com)
+- 📫 **Email:** [ibarrabelloalisha@gmail.com](mailto:ibarrabelloalisha@gmail.com)
 - 💬 **Pregúntame sobre:** Java, JavaScript y SQL.
 - ⚡ **Dato Curioso:** ¡Soy una persona muy leal!
 
