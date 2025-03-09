@@ -35,7 +35,7 @@ Soy una desarrolladora Java apasionada con una sólida base en programación ori
           <a href="https://projecto-pokemon.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Demo-6f42c1?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
           </a>
-          <a href="https://github.com/aleib12/pokemon-project" target="_blank">
+          <a href="https://github.com/AleIb12/projecto-pokemon" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Código-2a2e35?style=for-the-badge&logo=github&logoColor=white" alt="Código" />
           </a>
         </p>
