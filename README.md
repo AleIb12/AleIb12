@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=500&lines=Hola%2C+Soy+Ali+%F0%9F%91%8B;Desarrolladora+Java;Instructora+de+Rob%C3%B3tica" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=500&lines=Hola%2C+Soy+Alisha+%F0%9F%91%8B;Desarrolladora+Java;Instructora+de+Rob%C3%B3tica" alt="Header" />
 </div>
 
 <p align="center">
@@ -77,7 +77,6 @@ Soy una desarrolladora Java apasionada con una sólida base en programación ori
   <h3>🧰 Herramientas</h3>
   <p align="left">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
   </p>
 </div>
