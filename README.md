@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mí
 
-Soy una desarrolladora Java apasionada con una sólida base en programación orientada a objetos y las mejores prácticas de desarrollo. Actualmente, trabajo como Instructora de Robótica en Colegio del Sagrado Corazón, donde inspiro a estudiantes a explorar el mundo de la tecnología y la robótica.
+Soy una desarrolladora Java apasionada con una sólida base en programación orientada a objetos y las mejores prácticas de desarrollo. Anteriormente, trabajé como Instructora de Robótica en el Colegio del Sagrado Corazón, donde inspiré a estudiantes a explorar el mundo de la tecnología y la robótica. Actualmente, estoy a punto de comenzar mis prácticas profesionales como desarrolladora de software en una empresa del sector.
 
 <details>
   <summary>📝 Más información...</summary>
