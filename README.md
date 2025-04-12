@@ -44,7 +44,7 @@
       <td width="50%">
         <h3 align="center">Mi Portafolio Kawaii 🎀✨</h3>
         <p align="center">
-          <a href="https://portafolio-sand-theta-55.vercel.app/" target="_blank"> {/* <-- Enlace actualizado */}
+          <a href="https://portafolio-sand-theta-55.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Sitio-ADD8E6?style=for-the-badge&logo=vercel&logoColor=black" alt="Portafolio" />
           </a>
           <a href="https://github.com/aleib12/portafolio" target="_blank">
