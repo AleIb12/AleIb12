@@ -13,7 +13,7 @@
 
 ## 🌸 Sobre Mí 🌸
 
-¡Holi! 💖 Soy una desarrolladora Java súper apasionada 😊 con una sólida base en programación orientada a objetos y las mejores prácticas de desarrollo ✨. Anteriormente, trabajé como Instructora de Robótica en el Colegio del Sagrado Corazón, donde inspiré a estudiantes a explorar el mágico mundo de la tecnología y la robótica 🤖✨. Actualmente, estoy a punto de comenzar mis prácticas profesionales como desarrolladora de software en una empresa del sector ¡Estoy súper emocionada! 🎉
+¡Holi! 💖 Soy una desarrolladora Java súper apasionada 😊 con una sólida base en programación orientada a objetos y las mejores prácticas de desarrollo ✨. Anteriormente, trabajé como Instructora de Robótica en el Colegio del Sagrado Corazón, donde inspiré a estudiantes a explorar el mágico mundo de la tecnología y la robótica 🤖✨. Completé tres meses de prácticas profesionales en MyCityHome, donde adquirí experiencia valiosa en el desarrollo de software. Actualmente, estoy realizando mis prácticas en Omkrom ¡Cada día aprendo algo nuevo! 🎉
 
 <details>
   <summary>💖 Más cositas sobre mí... 💖</summary>
@@ -21,6 +21,8 @@
     <li>🌱 Siempre estoy aprendiendo nuevas tecnologías y cositas súper kawaii.</li>
     <li>🎯 Me encanta crear soluciones bonitas, eficientes y llenas de magia ✨.</li>
     <li>🧠 Me interesa mucho el desarrollo backend y la arquitectura de software ¡es fascinante! 🤓</li>
+    <li>📱 Actualmente explorando el desarrollo iOS con Swift ¡qué emocionante! 🍎</li>
+    <li>⚡ Dominando Next.js para crear aplicaciones web súper modernas y reactivas 🚀</li>
   </ul>
 </details>
 
@@ -66,6 +68,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="45" height="45"/>
   </p>
 
   <h3>🌐 Desarrollo Web</h3>
@@ -74,6 +77,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="Vite" width="45" height="45"/>
   </p>
 
@@ -110,7 +114,7 @@
 </div>
 
 <div align="center">
-  <h3>💬 Pregúntame sobre: Java, JavaScript, SQL y Robótica Educativa 💖</h3>
+  <h3>💬 Pregúntame sobre: Java, JavaScript, Next.js, Swift y Robótica Educativa 💖</h3>
   <h3>⚡ Dato Curioso: ¡Amo ponerle mucho corazón y dedicación a todo lo que hago! 😊💖</h3>
 </div>
 
