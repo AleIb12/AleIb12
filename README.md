@@ -94,12 +94,12 @@
 ## 📊 Estadísticas de GitHub 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleib12&show_icons=true&theme=buefy&hide_border=true&icon_color=B8E986&title_color=FFB7C5&text_color=87CEEB&bg_color=A8E6CF" alt="Estadísticas de GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleib12&layout=compact&theme=buefy&hide_border=true&title_color=FFB7C5&text_color=87CEEB&bg_color=A8E6CF" alt="Lenguajes más usados" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aleib12&show_icons=true&theme=default&hide_border=true&icon_color=B8E986&title_color=FFB7C5&text_color=333333&bg_color=FFFFFF" alt="Estadísticas de GitHub" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleib12&layout=compact&theme=default&hide_border=true&title_color=FFB7C5&text_color=333333&bg_color=FFFFFF" alt="Lenguajes más usados" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=aleib12&theme=buefy&bg_color=A8E6CF&title_color=FFB7C5&text_color=87CEEB" alt="GitHub Contributions" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=aleib12&theme=default&bg_color=FFFFFF&title_color=FFB7C5&text_color=333333" alt="GitHub Contributions" />
 </div>
 
 ## 💌 ¿Conectamos? 💌
