@@ -99,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aleib12&theme=radical&hide_border=true&fire=F472B6&ring=DB7093&currStreakLabel=DB7093" alt="GitHub Streak" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=aleib12&theme=radical" alt="GitHub Contributions" />
 </div>
 
 ## 💌 ¿Conectamos? 💌
