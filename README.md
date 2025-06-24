@@ -46,7 +46,7 @@
       <td width="50%">
         <h3 align="center">Mi Portafolio Kawaii 🎀✨</h3>
         <p align="center">
-          <a href="https://portafolio-sand-theta-55.vercel.app/" target="_blank">
+          <a href="https://alishas-atelier.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Sitio-ADD8E6?style=for-the-badge&logo=vercel&logoColor=black" alt="Portafolio" />
           </a>
           <a href="https://github.com/aleib12/portafolio" target="_blank">
@@ -75,6 +75,7 @@
   <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="45" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
@@ -114,7 +115,7 @@
 </div>
 
 <div align="center">
-  <h3>💬 Pregúntame sobre: Java, JavaScript, Next.js, Swift y Robótica Educativa 💖</h3>
+  <h3>💬 Pregúntame sobre: Java, JavaScript, Next.js, Tailwind CSS, Swift y Robótica Educativa 💖</h3>
   <h3>⚡ Dato Curioso: ¡Amo ponerle mucho corazón y dedicación a todo lo que hago! 😊💖</h3>
 </div>
 
