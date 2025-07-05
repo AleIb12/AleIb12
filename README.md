@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=FFB7C5,A8E6CF&height=120&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=FFB7C5,A8E6CF&height=120&section=header&text=&fontSize=0" alt="Onda decorativa de encabezado con gradiente rosa y verde mint" width="100%"/>
 </div>
 
 <div align="center">
-  ✨ <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=32&duration=2800&pause=2000&color=FFB7C5&center=true&vCenter=true&width=500&lines=Hola%2C+Soy+Alisha+%F0%9F%91%8B%E2%9C%A8;Desarrolladora+Java+%F0%9F%92%BB;Instructora+de+Rob%C3%B3tica+%F0%9F%A4%96" alt="Header" /> ✨
+  ✨ <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=32&duration=2800&pause=2000&color=FFB7C5&center=true&vCenter=true&width=500&lines=Hola%2C+Soy+Alisha+%F0%9F%91%8B%E2%9C%A8;Desarrolladora+Java+%F0%9F%92%BB;Instructora+de+Rob%C3%B3tica+%F0%9F%A4%96" alt="Texto animado mostrando: Hola, Soy Alisha - Desarrolladora Java - Instructora de Robótica" /> ✨
 </div>
 
 <div align="center">
@@ -69,10 +69,10 @@
           <h3 align="center">🐾 Proyecto Pokémon ⚡</h3>
           <p align="center">
             <a href="https://projecto-pokemon.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Ver%20Demo-FFB7C5?style=for-the-badge&logo=vercel&logoColor=black" alt="Demo" />
+              <img src="https://img.shields.io/badge/Ver%20Demo-FFB7C5?style=for-the-badge&logo=vercel&logoColor=black" alt="Ver demo en vivo del proyecto Pokémon" />
             </a>
             <a href="https://github.com/AleIb12/projecto-pokemon" target="_blank">
-              <img src="https://img.shields.io/badge/Ver%20Código-D6C7F7?style=for-the-badge&logo=github&logoColor=black" alt="Código" />
+              <img src="https://img.shields.io/badge/Ver%20Código-D6C7F7?style=for-the-badge&logo=github&logoColor=black" alt="Ver código fuente del proyecto Pokémon en GitHub" />
             </a>
           </p>
           <p align="center">
@@ -85,10 +85,10 @@
           <h3 align="center">🎀 Mi Portafolio Kawaii ✨</h3>
           <p align="center">
             <a href="https://alishas-atelier.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Ver%20Sitio-87CEEB?style=for-the-badge&logo=vercel&logoColor=black" alt="Portafolio" />
+              <img src="https://img.shields.io/badge/Ver%20Sitio-87CEEB?style=for-the-badge&logo=vercel&logoColor=black" alt="Visitar el portafolio web de Alisha" />
             </a>
             <a href="https://github.com/aleib12/portafolio" target="_blank">
-              <img src="https://img.shields.io/badge/Ver%20Código-D6C7F7?style=for-the-badge&logo=github&logoColor=black" alt="Código" />
+              <img src="https://img.shields.io/badge/Ver%20Código-D6C7F7?style=for-the-badge&logo=github&logoColor=black" alt="Ver código fuente del portafolio en GitHub" />
             </a>
           </p>
           <p align="center">
@@ -118,31 +118,31 @@
       <td width="33%" align="center">
         <h3>💻 Lenguajes</h3>
         <p>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Lenguaje de programación Java" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Lenguaje de programación JavaScript" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Lenguaje de programación Python" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Lenguaje de programación Dart" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Lenguaje de programación Swift" width="40" height="40"/>
         </p>
       </td>
       <td width="33%" align="center">
         <h3>🌐 Desarrollo Web</h3>
         <p>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Lenguaje de marcado HTML5" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Lenguaje de estilos CSS3" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Framework CSS Tailwind" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Librería JavaScript React" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Framework React Next.js" width="40" height="40"/>
         </p>
       </td>
       <td width="33%" align="center">
         <h3>🧰 Herramientas</h3>
         <p>
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Studio" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Sistema de control de versiones Git" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Editor de código Visual Studio Code" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="IDE Android Studio" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IDE IntelliJ IDEA" width="40" height="40"/>
+          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Framework Java Spring" width="40" height="40"/>
         </p>
       </td>
     </tr>
@@ -162,12 +162,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleib12&show_icons=true&theme=default&hide_border=true&icon_color=B8E986&title_color=FFB7C5&text_color=333333&bg_color=FFFFFF" alt="Estadísticas de GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleib12&layout=compact&theme=default&hide_border=true&title_color=FFB7C5&text_color=333333&bg_color=FFFFFF" alt="Lenguajes más usados" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aleib12&show_icons=true&theme=default&hide_border=true&icon_color=B8E986&title_color=FFB7C5&text_color=333333&bg_color=FFFFFF" alt="Estadísticas de GitHub de Alisha mostrando commits, pull requests y contribuciones" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleib12&layout=compact&theme=default&hide_border=true&title_color=FFB7C5&text_color=333333&bg_color=FFFFFF" alt="Lenguajes de programación más utilizados por Alisha en GitHub" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=aleib12&theme=default&bg_color=FFFFFF&title_color=FFB7C5&text_color=333333" alt="GitHub Contributions" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=aleib12&theme=default&bg_color=FFFFFF&title_color=FFB7C5&text_color=333333" alt="Gráfico de contribuciones de Alisha en GitHub durante el último año" />
 </div>
 
 <br>
@@ -184,10 +184,10 @@
 
 <div align="center">
   <a href="mailto:ibarrabelloalisha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFB7C5?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-FFB7C5?style=for-the-badge&logo=gmail&logoColor=black" alt="Enviar correo electrónico a Alisha" />
   </a>
   <a href="https://www.linkedin.com/in/alisha-ibarra-bello-4526561b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=black" alt="Conectar con Alisha en LinkedIn" />
   </a>
 </div>
 
@@ -214,6 +214,6 @@
 
 <div align="center">
   <p><em>¡Arigato por visitar mi rinconcito!</em> (づ｡◕‿‿◕｡)づ 💖</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=FFB7C5,A8E6CF&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=FFB7C5,A8E6CF&height=120&section=footer" alt="Onda decorativa de pie de página con gradiente rosa y verde mint" width="100%"/>
 </div>
 
