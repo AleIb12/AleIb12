@@ -125,6 +125,7 @@ Hello! I'm a passionate Java developer with a solid foundation in object-oriente
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="IDE Android Studio" width="35" height="35"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IDE IntelliJ IDEA" width="35" height="35"/>
           <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Framework Java Spring" width="35" height="35"/>
+          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Herramienta de diseño Figma" width="35" height="35"/>
         </p>
       </td>
     </tr>
