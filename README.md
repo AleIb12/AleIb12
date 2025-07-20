@@ -81,7 +81,7 @@ Hello! I'm a passionate **Java developer** with a solid foundation in object-ori
             </a>
           </p>
           <p style="color: #4A4A4A; font-size: 14px; line-height: 1.5; margin: 15px 0 0 0;">
-            Interactive application showcasing my Java skills and dynamic solution development capabilities.
+            Interactive React application showcasing my frontend development skills and modern web technologies.
           </p>
         </div>
       </td>
