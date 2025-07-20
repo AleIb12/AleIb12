@@ -37,10 +37,6 @@
   
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleib12&show_icons=true&count_private=true&hide_border=true&icon_color=B19CD9&title_color=6B5B95&text_color=4A4A4A&bg_color=0,F8F9FA,E8D5E8" alt="Estadísticas básicas de GitHub" height="200"/>
-</div>
-
 ## 👨‍💻 Professional Journey
 
 Hello! I'm a passionate **Java developer** with a solid foundation in object-oriented programming and software development best practices. I previously worked as a **Robotics Instructor** at Colegio del Sagrado Corazón, where I inspired students to explore the fascinating world of technology and robotics.
