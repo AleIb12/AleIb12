@@ -38,22 +38,29 @@
 </div>
 
 <div align="center">
-  <table border="0" cellpadding="10" cellspacing="0">
+  <table border="0" cellpadding="20" cellspacing="0">
     <tr>
       <td width="400" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=aleib12&show_icons=true&count_private=true&hide_border=true&icon_color=B19CD9&title_color=6B5B95&text_color=4A4A4A&bg_color=0,F8F9FA,E8D5E8" alt="Estadísticas básicas de GitHub" height="200"/>
       </td>
-      <td width="500" align="left" style="padding-left: 20px;">
-        <h3 style="color: #6B5B95;">👨‍💻 Professional Journey</h3>
-        <p>Hello! I'm a passionate Java developer with a solid foundation in object-oriented programming and software development best practices. I previously worked as a Robotics Instructor at Colegio del Sagrado Corazón, where I inspired students to explore the fascinating world of technology and robotics.</p>
+      <td width="500" align="left">
+        <h3>👨‍💻 Professional Journey</h3>
         
-        <p><strong>Currently:</strong> Working at <strong>Omkrom</strong> while expanding my horizons as a <strong>freelance developer</strong>, taking on exciting projects and challenges!</p>
+        Hello! I'm a passionate **Java developer** with a solid foundation in object-oriented programming and software development best practices. I previously worked as a **Robotics Instructor** at Colegio del Sagrado Corazón, where I inspired students to explore the fascinating world of technology and robotics.
         
-        <p>🌱 Always learning new technologies and staying up-to-date with industry trends<br>
-        🎯 I love creating elegant, efficient, and innovative solutions<br>
-        🧠 Particularly interested in backend development and software architecture<br>
-        📱 Currently exploring iOS development with <strong>Swift</strong><br>
-        ⚡ Mastering <strong>Next.js</strong> for modern, reactive web applications</p>
+        **Currently:** Working at **Omkrom** while expanding my horizons as a **freelance developer**, taking on exciting projects and challenges!
+        
+        ### 🚀 What I'm Up To:
+        
+        🌱 Always learning new technologies and staying up-to-date with industry trends
+        
+        🎯 I love creating elegant, efficient, and innovative solutions
+        
+        🧠 Particularly interested in backend development and software architecture
+        
+        📱 Currently exploring iOS development with **Swift**
+        
+        ⚡ Mastering **Next.js** for modern, reactive web applications
       </td>
     </tr>
   </table>
