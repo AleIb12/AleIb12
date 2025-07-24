@@ -1,24 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=6B5B95,B19CD9,DDA0DD&height=120&section=header&text=&fontSize=0" alt="Onda decorativa de encabezado con gradiente púrpura elegante" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=0F0F23,262447,3D5A80&height=150&section=header&text=%20ALISHA%20IBARRA%20&fontSize=28&fontColor=A5D8FF&animation=twinkling&fontAlignY=50&desc=▓▒░%20PIXEL%20DEVELOPER%20░▒▓&descSize=16&descAlignY=75" alt="Banner estilo pixel art con nombre de Alisha" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1200&color=6B5B95&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alisha+%E2%9C%A8;Java+Developer+%F0%9F%92%BB;Robotics+Instructor+%F0%9F%A4%96;Freelance+Developer+%F0%9F%9A%80;iOS+Enthusiast+%F0%9F%93%B1" alt="Texto animado mostrando: Hi I'm Alisha - Java Developer - Robotics Instructor - Freelance Developer - iOS Enthusiast" />
+  <pre>
+╔══════════════════════════════════════════════════════════════════╗
+║  ▓▓▓  ░░░  ▓▓▓    WELCOME TO MY DIGITAL REALM    ▓▓▓  ░░░  ▓▓▓  ║
+╚══════════════════════════════════════════════════════════════════╝
+  </pre>
 </div>
 
 <div align="center">
-  <table border="0">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A5D8FF&background=0F0F2300&center=true&vCenter=true&width=600&lines=[+]+Java+Developer+[+];[+]+React+Specialist+[+];[+]+Robotics+Instructor+[+];[+]+Freelance+Coder+[+];[+]+Swift+Explorer+[+]" alt="Texto animado estilo terminal retro" />
+</div>
+
+<div align="center">
+  <table border="0" style="border-collapse: separate; border-spacing: 10px;">
     <tr>
       <td align="center">
         <a href="https://github.com/aleib12">
-          <img src="https://img.shields.io/github/followers/aleib12?label=Followers&style=for-the-badge&color=6B5B95&labelColor=DDA0DD&logo=github&logoColor=white" alt="Seguidores de GitHub" />
+          <img src="https://img.shields.io/badge/▓▒░_FOLLOWERS-000?style=for-the-badge&logo=github&logoColor=A5D8FF&color=262447&labelColor=0F0F23" alt="Seguidores de GitHub estilo pixel" />
         </a>
       </td>
       <td align="center">
-        <img src="https://komarev.com/ghpvc/?username=aleib12&label=Profile+Views&color=B19CD9&style=for-the-badge&logo=eye&logoColor=white" alt="Vistas del perfil" />
+        <img src="https://komarev.com/ghpvc/?username=aleib12&label=PROFILE_VIEWS&color=3D5A80&style=for-the-badge&logo=eye&logoColor=A5D8FF" alt="Vistas del perfil estilo retro" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Available_for_Freelance-Yes-00C851?style=for-the-badge&logo=handshake&logoColor=white" alt="Disponible para proyectos freelance" />
+        <img src="https://img.shields.io/badge/░▒▓_FREELANCE_STATUS-AVAILABLE-4CAF50?style=for-the-badge&logo=code&logoColor=white" alt="Estado freelance pixel art" />
       </td>
     </tr>
   </table>
@@ -27,81 +35,102 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Línea decorativa animada" width="100%"/>
+  <pre>
+██████████████████████████████████████████████████████████████████████████████
+█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
+██████████████████████████████████████████████████████████████████████████████
+  </pre>
   
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" alt="Icono de estrella animado"/> 
-    About Me 
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" alt="Icono de estrella animado"/>
+  <h2 style="font-family: 'Courier New', monospace; color: #A5D8FF; text-shadow: 2px 2px 0px #262447;">
+    ▓▒░ ABOUT.EXE ░▒▓
   </h2>
   
 </div>
 
-## 👨‍💻 Professional Journey
+## 🔲 PLAYER PROFILE
 
-Hello! I'm a passionate **Java developer** with a solid foundation in object-oriented programming and software development best practices. I previously worked as a **Robotics Instructor** at Colegio del Sagrado Corazón, where I inspired students to explore the fascinating world of technology and robotics.
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║  CLASS: Software Developer                                       ║
+║  LEVEL: Professional                                             ║
+║  SPECIALIZATION: Backend Architecture & Frontend Magic          ║
+║  CURRENT QUEST: Working at Omkrom + Freelance Adventures        ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-**Currently:** Working at **Omkrom** while expanding my horizons as a **freelance developer**, taking on exciting projects and challenges!
+**▓ BACKGROUND STORY:** Passionate **Java developer** with expertise in object-oriented programming and software development. Former **Robotics Instructor** at Colegio del Sagrado Corazón, where I guided young minds through the digital realm of technology and robotics.
 
-### 🚀 What I'm Up To:
+**▓ CURRENT STATUS:** `Working at Omkrom` while expanding my digital empire as a **freelance developer**, taking on epic coding quests and challenges!
 
-- 🌱 Always learning new technologies and staying up-to-date with industry trends
-- 🎯 I love creating elegant, efficient, and innovative solutions  
-- 🧠 Particularly interested in backend development and software architecture
-- 📱 Currently exploring iOS development with **Swift**
-- ⚡ Mastering **Next.js** for modern, reactive web applications
+### 🎮 CURRENT OBJECTIVES:
+
+```
+[████████████████████████████████████████] 100% Learning new tech
+[██████████████████████████████████████  ]  95% Creating solutions  
+[████████████████████████████████████    ]  90% Backend architecture
+[██████████████████████████              ]  60% Swift mastery
+[████████████████████████████████████████] 100% Next.js expertise
+```
+
+- ▓ `Always learning new technologies and staying up-to-date with industry trends`
+- ▓ `I love creating elegant, efficient, and innovative solutions`  
+- ▓ `Particularly interested in backend development and software architecture`
+- ▓ `Currently exploring iOS development with` **Swift**
+- ▓ `Mastering` **Next.js** `for modern, reactive web applications`
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Línea decorativa animada" width="100%"/>
+  <pre>
+██████████████████████████████████████████████████████████████████████████████
+█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
+██████████████████████████████████████████████████████████████████████████████
+  </pre>
   
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="Icono de proyecto animado"/> 
-    Featured Projects 
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="Icono de proyecto animado"/>
+  <h2 style="font-family: 'Courier New', monospace; color: #A5D8FF; text-shadow: 2px 2px 0px #262447;">
+    ▓▒░ PROJECTS.DAT ░▒▓
   </h2>
   
 </div>
 
 <div align="center">
-  <table border="0" cellpadding="15" cellspacing="10">
+  <table border="0" cellpadding="20" cellspacing="15">
     <tr>
-      <td width="45%" align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px;">
-        <div style="background: white; border-radius: 12px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
-          <h3 style="color: #6B5B95; margin: 0 0 15px 0;">🎮 Pokémon Project</h3>
-          <p style="margin: 15px 0;">
+      <td width="45%" align="center" style="background: linear-gradient(135deg, #0F0F23 0%, #262447 50%, #3D5A80 100%); border: 3px solid #A5D8FF; border-radius: 15px; padding: 25px;">
+        <div style="background: rgba(10,10,25,0.9); border: 2px dashed #A5D8FF; border-radius: 10px; padding: 20px;">
+          <h3 style="color: #A5D8FF; margin: 0 0 15px 0; font-family: 'Courier New', monospace;">🎮 POKÉMON.EXE</h3>
+          <div style="margin: 15px 0;">
             <a href="https://projecto-pokemon.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/🌟_Live_Demo-6B5B95?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver demo en vivo del proyecto Pokémon" />
+              <img src="https://img.shields.io/badge/▓▒░_LIVE_DEMO-4CAF50?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0F23" alt="Demo en vivo estilo pixel" />
             </a>
-          </p>
-          <p style="margin: 10px 0;">
+          </div>
+          <div style="margin: 10px 0;">
             <a href="https://github.com/AleIb12/projecto-pokemon" target="_blank">
-              <img src="https://img.shields.io/badge/📂_Source_Code-DDA0DD?style=for-the-badge&logo=github&logoColor=black" alt="Ver código fuente del proyecto Pokémon en GitHub" />
+              <img src="https://img.shields.io/badge/░▒▓_SOURCE_CODE-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=262447" alt="Código fuente estilo retro" />
             </a>
-          </p>
-          <p style="color: #4A4A4A; font-size: 14px; line-height: 1.5; margin: 15px 0 0 0;">
-            Interactive React application showcasing my frontend development skills and modern web technologies.
-          </p>
+          </div>
+          <div style="color: #A5D8FF; font-size: 13px; line-height: 1.4; margin: 15px 0 0 0; font-family: 'Courier New', monospace;">
+            <code>>>> Interactive React application showcasing frontend mastery and modern web technologies</code>
+          </div>
         </div>
       </td>
       <td width="10%"></td>
-      <td width="45%" align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 20px;">
-        <div style="background: white; border-radius: 12px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
-          <h3 style="color: #6B5B95; margin: 0 0 15px 0;">💼 Portfolio Website</h3>
-          <p style="margin: 15px 0;">
+      <td width="45%" align="center" style="background: linear-gradient(135deg, #0F0F23 0%, #262447 50%, #3D5A80 100%); border: 3px solid #A5D8FF; border-radius: 15px; padding: 25px;">
+        <div style="background: rgba(10,10,25,0.9); border: 2px dashed #A5D8FF; border-radius: 10px; padding: 20px;">
+          <h3 style="color: #A5D8FF; margin: 0 0 15px 0; font-family: 'Courier New', monospace;">💼 PORTFOLIO.SYS</h3>
+          <div style="margin: 15px 0;">
             <a href="https://alishas-atelier.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/🔗_Visit_Site-6B5B95?style=for-the-badge&logo=vercel&logoColor=white" alt="Visitar el portafolio web de Alisha" />
+              <img src="https://img.shields.io/badge/▓▒░_VISIT_SITE-4CAF50?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0F23" alt="Visitar sitio estilo pixel" />
             </a>
-          </p>
-          <p style="margin: 10px 0;">
+          </div>
+          <div style="margin: 10px 0;">
             <a href="https://github.com/aleib12/portafolio" target="_blank">
-              <img src="https://img.shields.io/badge/📂_Source_Code-DDA0DD?style=for-the-badge&logo=github&logoColor=black" alt="Ver código fuente del portafolio en GitHub" />
+              <img src="https://img.shields.io/badge/░▒▓_SOURCE_CODE-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=262447" alt="Código fuente estilo retro" />
             </a>
-          </p>
-          <p style="color: #4A4A4A; font-size: 14px; line-height: 1.5; margin: 15px 0 0 0;">
-            Personal portfolio showcasing my projects, contributions, and software development resources.
-          </p>
+          </div>
+          <div style="color: #A5D8FF; font-size: 13px; line-height: 1.4; margin: 15px 0 0 0; font-family: 'Courier New', monospace;">
+            <code>>>> Personal digital showcase featuring projects, contributions, and development resources</code>
+          </div>
         </div>
       </td>
     </tr>
@@ -111,44 +140,68 @@ Hello! I'm a passionate **Java developer** with a solid foundation in object-ori
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Línea decorativa animada" width="100%"/>
+  <pre>
+██████████████████████████████████████████████████████████████████████████████
+█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
+██████████████████████████████████████████████████████████████████████████████
+  </pre>
   
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" alt="Icono tecnológico animado"/> 
-    Tech Stack 
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" alt="Icono tecnológico animado"/>
+  <h2 style="font-family: 'Courier New', monospace; color: #A5D8FF; text-shadow: 2px 2px 0px #262447;">
+    ▓▒░ TECH_STACK.LOG ░▒▓
   </h2>
   
 </div>
 
 <div align="center">
-  <table border="0" cellpadding="20" cellspacing="0" style="border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
-    <tr style="background: linear-gradient(45deg, #667eea, #764ba2);">
-      <td width="33%" align="center" style="background: rgba(255,255,255,0.95); border-radius: 12px; margin: 10px; padding: 20px;">
-        <h3 style="color: #6B5B95; margin-bottom: 20px;">
-          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Icono de código animado"/> 
-          Languages
-        </h3>
-        <p style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Lenguaje de programación Java" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Lenguaje de programación JavaScript" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Lenguaje de programación Python" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Lenguaje de programación Dart" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Lenguaje de programación Swift" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-        </p>
+  <pre style="font-family: 'Courier New', monospace; color: #A5D8FF; font-size: 12px; line-height: 1.2;">
+┌─────────────────────┬─────────────────────┬─────────────────────┐
+│       BACKEND       │      FRONTEND       │       TOOLS         │
+├─────────────────────┼─────────────────────┼─────────────────────┤
+│  ▓▓░ Java           │  ▓▓░ React          │  ▓▓░ Git            │
+│  ▒▒░ Python         │  ▒▒░ JavaScript     │  ▒▒░ VS Code        │
+│  ▒▒░ Spring         │  ▒▒░ HTML5          │  ░░░ Figma          │
+│  ░░░ Node.js        │  ▒▒░ CSS3           │  ▒▒░ Vercel         │
+│                     │  ▓▓░ Next.js        │                     │
+│                     │  ▒▒░ Tailwind CSS   │                     │
+└─────────────────────┴─────────────────────┴─────────────────────┘
+  </pre>
+  
+  <table align="center" style="background: rgba(15,15,35,0.8); border: 2px solid #A5D8FF; border-radius: 10px; padding: 15px; margin: 20px 0;">
+    <tr>
+      <td align="center">
+        <code style="color: #A5D8FF; font-family: 'Courier New', monospace; font-size: 11px;">
+          [████████████████████] Java 95%<br>
+          [█████████████████░░░] React 85%<br>
+          [████████████████░░░░] JavaScript 80%<br>
+          [███████████████░░░░░] Next.js 75%<br>
+          [██████████████░░░░░░] CSS3 70%<br>
+          [█████████████░░░░░░░] Swift 65%<br>
+          [████████████░░░░░░░░] Python 60%
+        </code>
       </td>
-      <td width="33%" align="center" style="background: rgba(255,255,255,0.95); border-radius: 12px; margin: 10px; padding: 20px;">
-        <h3 style="color: #6B5B95; margin-bottom: 20px;">
-          <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="30" alt="Icono frontend animado"/> 
-          Frontend
-        </h3>
-        <p style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Lenguaje de marcado HTML5" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Lenguaje de estilos CSS3" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Framework CSS Tailwind" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Librería JavaScript React" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Framework React Next.js" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-        </p>
+    </tr>
+  </table>
+  
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/▓▒░_JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0F0F23" alt="Java programming language - advanced level"/>
+  <img src="https://img.shields.io/badge/▓▒░_REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0F0F23" alt="React framework - proficient level"/>
+  <img src="https://img.shields.io/badge/▓▒░_JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0F0F23" alt="JavaScript programming - advanced level"/>
+  <img src="https://img.shields.io/badge/▓▒░_SWIFT-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=0F0F23" alt="Swift for iOS development - learning"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/▓▒░_NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0F0F23" alt="Next.js React framework - proficient"/>
+  <img src="https://img.shields.io/badge/▓▒░_PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0F0F23" alt="Python programming language"/>
+  <img src="https://img.shields.io/badge/▓▒░_HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0F0F23" alt="HTML5 markup language"/>
+  <img src="https://img.shields.io/badge/▓▒░_CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F0F23" alt="CSS3 styling language"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/▓▒░_TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0F0F23" alt="Tailwind CSS utility framework"/>
+  <img src="https://img.shields.io/badge/▓▒░_GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0F0F23" alt="Git version control system"/>
+  <img src="https://img.shields.io/badge/▓▒░_VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0F0F23" alt="Visual Studio Code editor"/>
+  <img src="https://img.shields.io/badge/▓▒░_SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=0F0F23" alt="Spring Java framework"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/▓▒░_FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0F0F23" alt="Figma design tool"/>
+</div>
       </td>
       <td width="33%" align="center" style="background: rgba(255,255,255,0.95); border-radius: 12px; margin: 10px; padding: 20px;">
         <h3 style="color: #6B5B95; margin-bottom: 20px;">
@@ -171,108 +224,137 @@ Hello! I'm a passionate **Java developer** with a solid foundation in object-ori
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Línea decorativa animada" width="100%"/>
+  <pre>
+██████████████████████████████████████████████████████████████████████████████
+█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
+██████████████████████████████████████████████████████████████████████████████
+  </pre>
   
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Icono estadísticas animado"/> 
-    GitHub Analytics 
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Icono estadísticas animado"/>
+  <h2 style="font-family: 'Courier New', monospace; color: #A5D8FF; text-shadow: 2px 2px 0px #262447;">
+    ▓▒░ SYSTEM_ANALYTICS.DAT ░▒▓
   </h2>
   
 </div>
 
 <div align="center">
-  <table border="0" cellpadding="10" cellspacing="0">
+  <div style="background: rgba(15,15,35,0.9); border: 3px solid #A5D8FF; border-radius: 15px; padding: 20px; margin: 20px 0;">
+    <pre style="font-family: 'Courier New', monospace; color: #A5D8FF; font-size: 11px; line-height: 1.3; margin: 0;">
+╔══════════════════════════════════════════════════════════════════════╗
+║                         GITHUB TERMINAL v2.1                        ║
+║                    ═══════════════════════════════════                    ║
+║  > Initializing data stream...                      [████████] 100%  ║
+║  > Parsing repository metrics...                    [████████] 100%  ║
+║  > Generating statistical overview...               [████████] 100%  ║
+║                                                                      ║
+║  STATUS: ▓ ACTIVE DEVELOPER                                          ║
+║  REPO_COUNT: ██████████ 15+ repositories                             ║
+║  COMMIT_RATE: ████████░░ High activity                               ║
+║  CODE_QUALITY: ████████████ Premium                                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+    </pre>
+  </div>
+  
+  <table border="0" cellpadding="15" cellspacing="15">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=aleib12&show_icons=true&count_private=true&theme=default&hide_border=true&icon_color=B19CD9&title_color=6B5B95&text_color=4A4A4A&bg_color=0,F8F9FA,E8D5E8,DDA0DD" alt="Estadísticas de GitHub de Alisha mostrando commits, pull requests y contribuciones" height="180"/>
+        <div style="background: rgba(10,10,25,0.9); border: 2px dashed #A5D8FF; border-radius: 10px; padding: 15px;">
+          <img src="https://github-readme-stats.vercel.app/api?username=aleib12&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=A5D8FF&title_color=A5D8FF&text_color=A5D8FF&bg_color=0F0F23" alt="GitHub Stats - Terminal Style" height="180"/>
+        </div>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleib12&layout=compact&theme=default&hide_border=true&title_color=6B5B95&text_color=4A4A4A&bg_color=0,F8F9FA,E8D5E8,DDA0DD&langs_count=8" alt="Lenguajes de programación más utilizados por Alisha en GitHub" height="180"/>
+        <div style="background: rgba(10,10,25,0.9); border: 2px dashed #A5D8FF; border-radius: 10px; padding: 15px;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleib12&layout=compact&theme=tokyonight&hide_border=true&title_color=A5D8FF&text_color=A5D8FF&bg_color=0F0F23&langs_count=8" alt="Programming Languages - Pixel Art Style" height="180"/>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aleib12&theme=default&hide_border=true&stroke=6B5B95&background=F8F9FA&ring=B19CD9&fire=6B5B95&currStreakNum=4A4A4A&sideNums=4A4A4A&currStreakLabel=6B5B95&sideLabels=6B5B95&dates=666666" alt="Racha de contribuciones de GitHub de Alisha" height="150"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=aleib12&theme=default&bg_color=F8F9FA&title_color=6B5B95&text_color=4A4A4A&hide_border=true" alt="Gráfico de contribuciones de Alisha en GitHub durante el último año" />
+  <div style="background: rgba(15,15,35,0.9); border: 3px solid #A5D8FF; border-radius: 15px; padding: 20px; margin: 20px auto; max-width: 600px;">
+    <pre style="font-family: 'Courier New', monospace; color: #A5D8FF; font-size: 10px; line-height: 1.2; margin: 0;">
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                            STREAK COUNTER                                 ║
+║                        ─────────────────────                              ║
+║  Current Streak: ████████████████████████████████████ MAX LEVEL          ║
+║  Longest Streak: ██████████████████████████████████████ LEGENDARY        ║
+║  Total Activity: ████████████████████████████████████████ ULTIMATE       ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+    </pre>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=aleib12&theme=tokyonight&hide_border=true&stroke=A5D8FF&background=0F0F23&ring=A5D8FF&fire=A5D8FF&currStreakNum=A5D8FF&sideNums=A5D8FF&currStreakLabel=A5D8FF&sideLabels=A5D8FF&dates=A5D8FF" alt="GitHub Streak Stats - Pixel Art Terminal Style" height="150" style="border-radius: 10px;"/>
+  </div>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Línea decorativa animada" width="100%"/>
+  <pre>
+██████████████████████████████████████████████████████████████████████████████
+█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
+██████████████████████████████████████████████████████████████████████████████
+  </pre>
   
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Icono conexión animado"/> 
-    Let's Connect 
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Icono conexión animado"/>
+  <h2 style="font-family: 'Courier New', monospace; color: #A5D8FF; text-shadow: 2px 2px 0px #262447;">
+    ▓▒░ CONNECTION_INTERFACE.SYS ░▒▓
   </h2>
   
 </div>
 
 <div align="center">
-  <table border="0" cellpadding="10" cellspacing="0">
-    <tr>
-      <td align="center">
-        <a href="mailto:ibarrabelloalisha@gmail.com" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/📧_Email-6B5B95?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DDA0DD" alt="Enviar correo electrónico a Alisha" style="border-radius: 8px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/alisha-ibarra-bello-4526561b6/" target="_blank" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/💼_LinkedIn-B19CD9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6B5B95" alt="Conectar con Alisha en LinkedIn" style="border-radius: 8px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/aleib12" target="_blank" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/🐱_GitHub-DDA0DD?style=for-the-badge&logo=github&logoColor=black&labelColor=B19CD9" alt="Ver perfil de GitHub de Alisha" style="border-radius: 8px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div style="background: rgba(15,15,35,0.9); border: 3px solid #A5D8FF; border-radius: 15px; padding: 25px; margin: 20px auto; max-width: 700px;">
+    <pre style="font-family: 'Courier New', monospace; color: #A5D8FF; font-size: 12px; line-height: 1.3; margin: 0 0 20px 0;">
+╔══════════════════════════════════════════════════════════════════════╗
+║                         NETWORK PROTOCOLS                            ║
+║                    ═══════════════════════════════════════                    ║
+║  > Email Protocol:     [ACTIVE]     ibarrabelloalisha@gmail.com      ║
+║  > LinkedIn Protocol:  [ACTIVE]     Professional Network Ready       ║
+║  > GitHub Protocol:    [ACTIVE]     Source Code Repository Online    ║
+║  > Portfolio Protocol: [ACTIVE]     Digital Showcase Operational     ║
+║                                                                      ║
+║  STATUS: ▓ ALL SYSTEMS OPERATIONAL                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+    </pre>
+    
+    <table border="0" cellpadding="15" cellspacing="10" align="center">
+      <tr>
+        <td align="center">
+          <a href="mailto:ibarrabelloalisha@gmail.com" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/▓▒░_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F23" alt="Contact via Email - Terminal Style"/>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://www.linkedin.com/in/alisha-ibarra-bello-4526561b6/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/▓▒░_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F23" alt="Connect on LinkedIn - Pixel Art Style"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/aleib12" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/▓▒░_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0F23" alt="Visit GitHub Profile - Retro Style"/>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://alishas-atelier.vercel.app" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/▓▒░_PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0F23" alt="Visit Portfolio Website - Terminal Interface"/>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
-<br>
-
-<div align="center">
-  <table border="0" cellpadding="15" cellspacing="0" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-    <tr>
-      <td align="center" style="background: rgba(255,255,255,0.95); border-radius: 15px; margin: 10px;">
-        <h3 style="color: #6B5B95; margin: 10px 0;">
-          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="Icono pregunta animado"/> 
-          Ask me about
-        </h3>
-        <p style="color: #4A4A4A; font-weight: 600; margin: 10px 0;">
-          Java • JavaScript • Next.js • Swift • Tailwind CSS • Educational Robotics • Freelance Development
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background: rgba(255,255,255,0.95); border-radius: 15px; margin: 10px;">
-        <h3 style="color: #6B5B95; margin: 10px 0;">
-          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" alt="Icono diversión animado"/> 
-          Fun fact
-        </h3>
-        <p style="color: #4A4A4A; font-weight: 600; margin: 10px 0;">
-          I love putting passion and dedication into everything I do! 🚀✨
-        </p>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="margin-top: 30px;">
+  <pre style="font-family: 'Courier New', monospace; color: #A5D8FF; font-size: 11px; line-height: 1.2;">
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  ▓▒░ THANK YOU FOR VISITING MY DIGITAL REALM ░▒▓                          │
+│                                                                             │
+│  > System Status: Ready for new collaborations                             │
+│  > Current Objective: Building the future, one line of code at a time      │
+│  > Message Buffer: Always open to exciting projects and opportunities!     │
+│                                                                             │
+│  Press [ENTER] to initiate contact protocol...                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+  </pre>
 </div>
 
-<br>
-
-<div align="center">
-  <p style="font-size: 18px; font-weight: 600; color: #6B5B95; font-style: italic;">
-    <em>Thanks for visiting my profile!</em> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="Saludo animado"/>
-  </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=6B5B95,B19CD9,DDA0DD&height=120&section=footer" alt="Onda decorativa de pie de página con gradiente púrpura elegante" width="100%"/>
-</div>
 
