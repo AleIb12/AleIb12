@@ -24,61 +24,50 @@
   </h2>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 1px; margin: 20px auto; max-width: 800px;">
-  <div style="background: #FEFEFE; border-radius: 19px; padding: 30px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
-    
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Aesthetic coder gif" width="400" style="border-radius: 15px; margin-bottom: 20px;">
-</div>
 
-<div style="text-align: center; margin: 20px 0;">
-  <h3 style="color: #9BB5FF; font-family: 'Comfortaa', cursive; font-size: 1.8em; margin-bottom: 15px;">
-    🌸 Developer Story 🌸
-  </h3>
-</div>
+### 🌸 Developer Story 🌸
 
-**💫 Current Role:** Software Developer at Omkrom + Freelance Digital Artist  
-**🌸 Background:** Former Robotics Instructor with a passion for elegant code  
+<table align="center">
+<tr>
+<td align="center" colspan="2">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Aesthetic coder gif" width="300"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="400">
+
+#### 💫 About Me
+
+**🎯 Current Role:** Software Developer at **Omkrom** + Freelance Digital Artist  
+**🌸 Background:** Former Robotics Instructor passionate about elegant code  
 **✨ Specialty:** Backend Architecture & Frontend Aesthetics  
-**🎯 Mission:** Creating beautiful, functional digital experiences  
+**💭 Mission:** Creating beautiful, functional digital experiences  
 
-<div style="margin: 25px 0;">
-  <h4 style="color: #B8860B; font-family: 'Comfortaa', cursive; text-align: center; margin-bottom: 15px;">
-    ✧ Current Learning Journey ✧
-  </h4>
-  
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0; padding: 10px; background: linear-gradient(90deg, #FFE4E1, #F0F8FF); border-radius: 25px;">
-    <span style="color: #6B73FF; font-weight: 600;">Java Development</span>
-    <div style="width: 200px; background: #F0F0F0; border-radius: 10px; overflow: hidden;">
-      <div style="width: 95%; height: 8px; background: linear-gradient(90deg, #FF69B4, #9370DB); border-radius: 10px;"></div>
-    </div>
-    <span style="color: #9370DB; font-weight: 600;">95%</span>
-  </div>
-  
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0; padding: 10px; background: linear-gradient(90deg, #F0F8FF, #FFE4E1); border-radius: 25px;">
-    <span style="color: #6B73FF; font-weight: 600;">React Magic</span>
-    <div style="width: 200px; background: #F0F0F0; border-radius: 10px; overflow: hidden;">
-      <div style="width: 85%; height: 8px; background: linear-gradient(90deg, #FF1493, #00CED1); border-radius: 10px;"></div>
-    </div>
-    <span style="color: #00CED1; font-weight: 600;">85%</span>
-  </div>
-  
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0; padding: 10px; background: linear-gradient(90deg, #FFE4E1, #F0F8FF); border-radius: 25px;">
-    <span style="color: #6B73FF; font-weight: 600;">Swift Exploration</span>
-    <div style="width: 200px; background: #F0F0F0; border-radius: 10px; overflow: hidden;">
-      <div style="width: 65%; height: 8px; background: linear-gradient(90deg, #FF6347, #FFD700); border-radius: 10px;"></div>
-    </div>
-    <span style="color: #FFD700; font-weight: 600;">65%</span>
-  </div>
-</div>
+</td>
+<td align="center" width="400">
 
-<div style="text-align: center; margin: 20px 0;">
-  <p style="color: #666; font-style: italic; font-size: 1.1em; line-height: 1.6;">
-    ✨ "Passionate about creating elegant, efficient solutions that bridge technology and artistry" ✨
-  </p>
-</div>
+#### ✧ Current Learning Journey ✧
 
-  </div>
+| Technology | Progress | Level |
+|:-----------|:--------:|------:|
+| ☕ **Java Development** | ![](https://geps.dev/progress/95?dangerColor=FF69B4&warningColor=9370DB&successColor=9370DB) | **95%** |
+| ⚛️ **React Magic** | ![](https://geps.dev/progress/85?dangerColor=FF1493&warningColor=00CED1&successColor=00CED1) | **85%** |
+| 🍎 **Swift Exploration** | ![](https://geps.dev/progress/65?dangerColor=FF6347&warningColor=FFD700&successColor=FFD700) | **65%** |
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+*✨ "Passionate about creating elegant, efficient solutions that bridge technology and artistry" ✨*
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br>
@@ -184,9 +173,6 @@
   </h2>
 </div>
 
-<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%); border-radius: 20px; padding: 1px; margin: 20px auto; max-width: 1000px;">
-  <div style="background: #FEFEFE; border-radius: 19px; padding: 40px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
-
 <div align="center">
 
 ### 🌸 Coding Journey Analytics 🌸
@@ -206,34 +192,17 @@
 </tr>
 </table>
 
-<div align="center">
+### ✨ Contribution Journey ✨
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=aleib12&theme=graywhite&hide_border=true&stroke=FF69B4&background=FEFEFE&ring=9370DB&fire=FF1493&currStreakNum=666&sideNums=666&currStreakLabel=9370DB&sideLabels=9370DB&dates=999)
 
+### 📊 Quick Stats
+
+| 🌟 **Total Repos** | 💫 **Contributions** | ✨ **Languages** |
+|:---:|:---:|:---:|
+| **15+** | **500+** | **6+** |
+
 </div>
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-
-### 🌟 Total Repos
-## 15+
-
-</td>
-<td align="center" width="200">
-
-### 💫 Contributions
-## 500+
-
-</td>
-<td align="center" width="200">
-
-### ✨ Languages
-## 6+
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -247,10 +216,13 @@
   </h2>
 </div>
 
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 20px; padding: 1px; margin: 20px auto; max-width: 800px;">
-  <div style="background: #FEFEFE; border-radius: 19px; padding: 40px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
+<div align="center">
 
 <div align="center">
+  <h2 style="font-family: 'Comfortaa', cursive; color: #9BB5FF; font-size: 2.5em; margin: 30px 0;">
+    ✧･ﾟ: *✧･ﾟ:* Let's Connect *:･ﾟ✧*:･ﾟ✧
+  </h2>
+</div>
 
 ### 🌸 Digital Connection Points 🌸
 *✨ Let's create something beautiful together ✨*
@@ -261,7 +233,7 @@
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Email aesthetic" width="60"/>
 
-### Email Magic
+#### Email Magic
 [![Email](https://img.shields.io/badge/✨-Send%20Message-FF69B4?style=flat-square&labelColor=FFF0F5&logo=gmail&logoColor=FF69B4)](mailto:ibarrabelloalisha@gmail.com)
 
 *Let's discuss your next project*
@@ -271,7 +243,7 @@
 
 <img src="https://media.giphy.com/media/gF2m2JOyGRrepC6WuP/giphy.gif" alt="LinkedIn aesthetic" width="60"/>
 
-### Professional Network
+#### Professional Network
 [![LinkedIn](https://img.shields.io/badge/💼-Connect-0077B5?style=flat-square&labelColor=F0F8FF&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/alisha-ibarra-bello-4526561b6/)
 
 *Professional collaborations*
@@ -283,7 +255,7 @@
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub aesthetic" width="60"/>
 
-### Code Repository
+#### Code Repository
 [![GitHub](https://img.shields.io/badge/💻-Follow-9370DB?style=flat-square&labelColor=F8F8FF&logo=github&logoColor=9370DB)](https://github.com/aleib12)
 
 *Explore my coding journey*
@@ -293,7 +265,7 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Portfolio aesthetic" width="60"/>
 
-### Digital Showcase
+#### Digital Showcase
 [![Portfolio](https://img.shields.io/badge/🌸-Visit%20Portfolio-FF6347?style=flat-square&labelColor=FFF5EE&logo=vercel&logoColor=FF6347)](https://alishas-atelier.vercel.app)
 
 *See my creative works*
@@ -302,8 +274,6 @@
 </tr>
 </table>
 
-<div align="center">
-
 ### ✨ Currently Available for ✨
 
 ![Freelance Projects](https://img.shields.io/badge/Freelance%20Projects-FF69B4?style=for-the-badge&logo=sparkles&logoColor=white)
@@ -311,9 +281,6 @@
 ![Mentoring](https://img.shields.io/badge/Mentoring-32CD32?style=for-the-badge&logo=academic-cap&logoColor=white)
 ![Code Reviews](https://img.shields.io/badge/Code%20Reviews-FF6347?style=for-the-badge&logo=code&logoColor=white)
 
-</div>
-
-  </div>
 </div>
 
 <div align="center" style="margin-top: 40px;">
