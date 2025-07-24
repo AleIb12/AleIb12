@@ -202,24 +202,6 @@
   <br><br>
   <img src="https://img.shields.io/badge/▓▒░_FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0F0F23" alt="Figma design tool"/>
 </div>
-      </td>
-      <td width="33%" align="center" style="background: rgba(255,255,255,0.95); border-radius: 12px; margin: 10px; padding: 20px;">
-        <h3 style="color: #6B5B95; margin-bottom: 20px;">
-          <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30" alt="Icono herramientas animado"/> 
-          Tools
-        </h3>
-        <p style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px;">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Sistema de control de versiones Git" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Editor de código Visual Studio Code" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="IDE Android Studio" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IDE IntelliJ IDEA" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Framework Java Spring" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Herramienta de diseño Figma" width="40" height="40" style="filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.3)); transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
