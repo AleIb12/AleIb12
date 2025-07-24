@@ -218,12 +218,6 @@
 
 <div align="center">
 
-<div align="center">
-  <h2 style="font-family: 'Comfortaa', cursive; color: #9BB5FF; font-size: 2.5em; margin: 30px 0;">
-    ✧･ﾟ: *✧･ﾟ:* Let's Connect *:･ﾟ✧*:･ﾟ✧
-  </h2>
-</div>
-
 ### 🌸 Digital Connection Points 🌸
 *✨ Let's create something beautiful together ✨*
 
