@@ -108,7 +108,7 @@ A sophisticated portfolio showcasing professional experience, projects, and tech
   <a href="https://alishas-atelier.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Site"/>
   </a>
-  <a href="https://github.com/aleib12/portafolio" target="_blank">
+  <a href="https://github.com/AleIb12/Alisha-s-Atelier" target="_blank">
     <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
 </div>
