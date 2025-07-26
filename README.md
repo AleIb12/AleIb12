@@ -1,6 +1,11 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=0D1117,161B22,21262D&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=0D1117,161B22,### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&height=120&section=header" width="100%"/>
 </div>
 
 <div align="center">
@@ -40,10 +45,10 @@ Former **Robotics Instructor** with extensive experience in:
 
 ### 💡 Core Expertise
 - **Backend**: Java, Spring Framework
-- **Frontend**: React, Next.js, JavaScript
-- **Web (Java)**: Vaadin Framework
+- **Frontend**: React, Next.js, JavaScript, Vaadin
 - **Desktop**: JavaFX, Python
 - **Mobile**: Swift (iOS), Android (Java)
+- **AI/ML**: Google Genkit
 - **Design**: UI/UX, System Architecture
 
 </td>
@@ -56,10 +61,11 @@ Former **Robotics Instructor** with extensive experience in:
 | **Java Development** | ████████████████████░ 95% |
 | **React & JavaScript** | ████████████████░░░░░ 85% |
 | **Next.js Framework** | ██████████████░░░░░░░ 75% |
-| **Vaadin (Java Web)** | ████████████████░░░░░ 80% |
+| **Vaadin Framework** | ████████████████░░░░░ 80% |
 | **JavaFX Desktop** | ██████████████░░░░░░░ 70% |
 | **Android Development** | ████████████░░░░░░░░░ 65% |
 | **Swift Development** | ████████████░░░░░░░░░ 65% |
+| **Google Genkit (AI)** | ████████████░░░░░░░░░ 60% |
 | **System Design** | ████████████████░░░░░ 80% |
 
 ### 🎨 Professional Philosophy
@@ -161,7 +167,8 @@ A sophisticated portfolio showcasing professional experience, projects, and tech
 </td>
 <td width="25%" align="center">
 
-### 🛠️ Tools & Frameworks
+### 🛠️ Tools & AI
+![Google Genkit](https://img.shields.io/badge/Google%20Genkit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -258,7 +265,8 @@ A sophisticated portfolio showcasing professional experience, projects, and tech
 <div align="center">
   <h3>🛠️ Available Services</h3>
   <img src="https://img.shields.io/badge/Full%20Stack%20Development-Available-58A6FF?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack"/>
-  <img src="https://img.shields.io/badge/Java%20Web%20(Vaadin)-Available-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white" alt="Vaadin"/>
+  <img src="https://img.shields.io/badge/Java%20Frontend%20(Vaadin)-Available-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white" alt="Vaadin"/>
+  <img src="https://img.shields.io/badge/AI%20Development%20(Genkit)-Available-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Genkit"/>
   <img src="https://img.shields.io/badge/Desktop%20Apps-Available-7C3AED?style=for-the-badge&logo=desktop&logoColor=white" alt="Desktop"/>
   <img src="https://img.shields.io/badge/Mobile%20Development-Available-3DDC84?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile"/>
   <img src="https://img.shields.io/badge/Backend%20Architecture-Available-F59E0B?style=for-the-badge&logo=server&logoColor=white" alt="Backend"/>
