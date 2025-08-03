@@ -211,7 +211,7 @@ A sophisticated portfolio showcasing professional experience, projects, and tech
         <img src="https://img.shields.io/badge/Total%20Repositories-15+-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Repos"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Total%20Contributions-500+-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Total Contributions"/>
+        <img src="https://img.shields.io/badge/Total%20Contributions-100+-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Total Contributions"/>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Languages%20Used-6+-F59E0B?style=for-the-badge&logo=code&logoColor=white" alt="Languages"/>
