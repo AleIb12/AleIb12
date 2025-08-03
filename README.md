@@ -46,7 +46,7 @@ Former **Robotics Instructor** with extensive experience in:
 ### 💡 Core Expertise
 - **Backend**: Java, Spring Framework
 - **Frontend**: React, Next.js, JavaScript, Vaadin
-- **Desktop**: JavaFX, Python
+- **Desktop**: JavaFX, Python, Electron
 - **Mobile**: Swift (iOS), Android (Java)
 - **AI/ML**: Google Genkit
 - **Design**: UI/UX, System Architecture
@@ -63,6 +63,7 @@ Former **Robotics Instructor** with extensive experience in:
 | **Next.js Framework** | ██████████████░░░░░░░ 75% |
 | **Vaadin Framework** | ████████████████░░░░░ 80% |
 | **JavaFX Desktop** | ██████████████░░░░░░░ 70% |
+| **Electron Framework** | ██████████████░░░░░░░ 75% |
 | **Android Development** | ████████████░░░░░░░░░ 65% |
 | **Swift Development** | ████████████░░░░░░░░░ 65% |
 | **Google Genkit (AI)** | ████████████░░░░░░░░░ 60% |
@@ -161,6 +162,7 @@ A sophisticated portfolio showcasing professional experience, projects, and tech
 ### 📱 Mobile & Desktop
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20Desktop-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -266,8 +268,8 @@ A sophisticated portfolio showcasing professional experience, projects, and tech
   <h3>🛠️ Available Services</h3>
   <img src="https://img.shields.io/badge/Full%20Stack%20Development-Available-58A6FF?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack"/>
   <img src="https://img.shields.io/badge/Java%20Frontend%20(Vaadin)-Available-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white" alt="Vaadin"/>
+  <img src="https://img.shields.io/badge/Cross%20Platform%20Desktop%20(Electron)-Available-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
   <img src="https://img.shields.io/badge/AI%20Development%20(Genkit)-Available-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Genkit"/>
-  <img src="https://img.shields.io/badge/Desktop%20Apps-Available-7C3AED?style=for-the-badge&logo=desktop&logoColor=white" alt="Desktop"/>
   <img src="https://img.shields.io/badge/Mobile%20Development-Available-3DDC84?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile"/>
   <img src="https://img.shields.io/badge/Backend%20Architecture-Available-F59E0B?style=for-the-badge&logo=server&logoColor=white" alt="Backend"/>
   <img src="https://img.shields.io/badge/Technical%20Consulting-Available-10B981?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Consulting"/>
